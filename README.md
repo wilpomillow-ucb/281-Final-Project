@@ -11,4 +11,5 @@ This repository contains the Jupyter notebooks and final write up for Summer 202
 The following outlines the structure of the repository:
 
  - [FeatureNotebooks](https://github.com/wilpomillow-ucb/281-Final-Project/tree/main/FeatureNotebooks "FeatureNotebooks") : All notebooks used for feature extraction and analysis
- - [Writeup](https://github.com/wilpomillow-ucb/281-Final-Project/tree/main/Writeup "Writeup") : Report submission
+ - [Writeup](https://github.com/wilpomillow-ucb/281-Final-Project/tree/main/Writeup "Writeup") : Report submission in PDF format
+ - [Presentation](https://github.com/wilpomillow-ucb/281-Final-Project/tree/main/Presentation) : Presentation in PDF format
